@@ -1,0 +1,7 @@
+C:\Users\Prave\source\repos\MS1\MS1\bin\Debug\MS1.exe.config
+C:\Users\Prave\source\repos\MS1\MS1\bin\Debug\MS1.exe
+C:\Users\Prave\source\repos\MS1\MS1\bin\Debug\MS1.pdb
+C:\Users\Prave\source\repos\MS1\MS1\obj\Debug\MS1.csproj.AssemblyReference.cache
+C:\Users\Prave\source\repos\MS1\MS1\obj\Debug\MS1.csproj.CoreCompileInputs.cache
+C:\Users\Prave\source\repos\MS1\MS1\obj\Debug\MS1.exe
+C:\Users\Prave\source\repos\MS1\MS1\obj\Debug\MS1.pdb
